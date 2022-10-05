@@ -6,4 +6,6 @@ Este é o Manual de Referência do Class Room. Ele documenta o Class room 1.0, c
 
      1.1. O Usuário, precisará se cadastrar para acessar suas informações, com email e senha no qual ele precisará para acessar suas informações no campus. Com o seu email pessoal. 
 
-     1.2. 
+     1.2. O software é voltado a facilitar a vida do aluno, caso ele se perca no campus da instituição, mostrará bloco e sala no qual ele vai ter aula.
+     
+     1.3. 
