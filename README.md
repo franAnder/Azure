@@ -10,8 +10,6 @@ Este é o Manual de Referência do Class Room. Ele documenta o Class room 1.0, C
      
      1.3. O Usuário só poderá alterar suas informações no sistema, como manter as suas informações atualizadas e também pode vizualizar as atualizações no seu perfil.
      
-     1.4 
-     
-     1.5
+     1.4.
  
     
